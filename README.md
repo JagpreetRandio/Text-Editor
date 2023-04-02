@@ -4,7 +4,7 @@
 ## Table of contents
 * [Description](#description)
 * [Installation](#installation)
-* [Screenshots] (#screenshots)
+* [Screenshots](#screenshots)
 * [Usage](#usage)
 * [Credits](#credits)
 * [Contact Me](#contact-me)
